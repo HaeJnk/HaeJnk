@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @KHyan
+- 👋 Hi, I’m Heajin.
 - 👀 I’m interested in design/UIUX/web programming.
 - 🌱 I’m currently learning html, css, javascript.
 - 💞️ I’m looking to collaborate on ...
