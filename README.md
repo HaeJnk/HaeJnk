@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Heajin.
-- 👀 I’m interested in design/UIUX/web programming.
+- 👀 I’m interested in Design/UIUX/WebProgramming/Game/programmingLanguage .
 - 🌱 I’m currently learning html, css, javascript.
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me 'ramong4028@gmail.com' .
