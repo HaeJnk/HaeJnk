@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Heajin.
-- 👀 I’m interested in Design/UIUX/WebProgramming/Game.
+- 👀 I’m interested in Design/Development/Game.
 - 🌱 I’m currently learning html, css, javascript and C.
 - 💞️ I’m looking to collaborate on ...
 
