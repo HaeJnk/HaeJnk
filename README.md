@@ -1,7 +1,9 @@
-- 👋 Hi, I’m Heajin.
-- 👀 I’m interested in Design/Development/Game.
-- 🌱 I’m currently learning HTML, CSS, JavaScript.
-- 💞️ I’m looking to collaborate on ...
+## HaeJin
+
+- 최근 공부중...
+> HTML
+> css
+> JavaScript
 
 <!---
 KHyan/KHyan is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
