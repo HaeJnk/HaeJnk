@@ -1,9 +1,9 @@
 ## HaeJin
 
-- 최근 공부중...
-> HTML <br/>
-> css <br/>
-> JavaScript <br/>
+> 최근 공부중...
+- HTML 
+- css 
+- JavaScript 
 
 <!---
 KHyan/KHyan is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
