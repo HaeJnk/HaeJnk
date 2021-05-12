@@ -2,7 +2,7 @@
 
 > 최근 공부중...
 - HTML 
-- css 
+- CSS
 - JavaScript 
 
 <!---
