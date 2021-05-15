@@ -1,6 +1,6 @@
 ## HaeJin
 
-> 최근 공부중...
+> recently learning..
 - HTML 
 - CSS
 - JavaScript 
