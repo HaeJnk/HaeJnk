@@ -4,7 +4,6 @@
 - HTML 
 - CSS
 - JavaScript 
-
 - Data structure
 - Math
 
