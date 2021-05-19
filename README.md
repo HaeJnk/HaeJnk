@@ -9,7 +9,7 @@
 
 > Interesting
 - Game
-- Graphic Design (2D, 3D)
+- Graphic Design 
 - Web Design
 - UI/UX
 - Front End
