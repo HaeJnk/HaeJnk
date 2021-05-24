@@ -12,7 +12,7 @@
 - Web Design
 - UI/UX
 - Front End
-- Interactive develop
+- Interaction
 - Back End
 
 
