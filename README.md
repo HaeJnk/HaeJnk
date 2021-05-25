@@ -4,8 +4,8 @@
 - HTML 
 - CSS
 - JavaScript 
-- Data structure
 - Math
+- Data structure
 
 > Interesting
 - Game
