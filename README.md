@@ -8,7 +8,7 @@
 - Data structure
 
 > Interesting
-- Game create
+- Game analysis
 - Web Design
 - UI/UX
 - Front End
