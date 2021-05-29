@@ -8,12 +8,10 @@
 - Data structure
 
 > Interesting
-- Game analysis
 - Web Design
 - UI/UX
 - Front End
 - Interaction
-- Back End
 
 
 <!---
