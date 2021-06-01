@@ -9,7 +9,7 @@
 
 > Interesting
 - Web Design
-- UI/UX
+- UI/UX Design
 - Front End
 - Interaction
 
