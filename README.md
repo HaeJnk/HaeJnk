@@ -4,7 +4,6 @@
 - HTML 
 - CSS
 - JavaScript 
-- Math
 
 > Interesting
 - Web Design
