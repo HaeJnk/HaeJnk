@@ -5,7 +5,6 @@
 - CSS
 - JavaScript 
 - Math
-- Data structure
 
 > Interesting
 - Web Design
