@@ -1,11 +1,11 @@
 ## HaeJin
 
-> Recently learning..
+### Recently learning..
 - HTML 
 - CSS
 - JavaScript 
 
-> Interesting
+### Interesting
 - Web Design
 - UI/UX
 - Front End
