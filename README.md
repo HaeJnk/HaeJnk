@@ -5,7 +5,7 @@
 - CSS
 - JavaScript 
 
-### Interesting
+### Interest
 - Web Design
 - UI/UX
 - Front End
