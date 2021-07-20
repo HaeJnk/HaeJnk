@@ -6,7 +6,6 @@
 - JavaScript 
 
 ### Interest
-- Web Design
 - UI/UX
 - Front End
 - Interaction
