@@ -9,7 +9,7 @@
 - UI/UX
 - Front End
 - Interaction
-- Full Stack
+- Back End
 
 
 <!---
