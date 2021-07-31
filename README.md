@@ -3,7 +3,7 @@
 ### Recently learning..
 - HTML5
 - CSS3
-- JavaScript 
+- JavaScript (
 
 ### Interest
 - UI/UX
