@@ -10,7 +10,6 @@
 - Front End
 - Interaction
 - Back End
-- game
 
 
 <!---
