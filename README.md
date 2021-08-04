@@ -1,8 +1,6 @@
 ## HaeJnk
 
 ### Recently learning..
-- HTML5
-- CSS3
 - JavaScript (ES6)
 
 ### Interest
@@ -11,6 +9,9 @@
 - Interaction
 - Back End
 
+#### learned...
+- HTML
+- CSS
 
 <!---
 HaeJnk/HaeJnk is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
