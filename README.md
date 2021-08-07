@@ -2,6 +2,7 @@
 
 ### Recently learning..
 - JavaScript (ES6)
+- PixiJS
 
 ### Interest
 - UI/UX
