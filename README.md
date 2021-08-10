@@ -4,7 +4,7 @@
 - JavaScript (ES6)
 - PixiJS
 - node.js
-- 
+- algorithm
 
 ### Interest
 - UI/UX
