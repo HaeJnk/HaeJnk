@@ -9,6 +9,7 @@
 - Front End
 - Interaction
 - Back End
+- Game
 
 #### learned...
 - HTML
