@@ -7,10 +7,9 @@
 - algorithm
 
 ### Interest
-- UI/UX
 - Front End
 - Interaction
-- Back End
+- (Back End)
 - Game
 
 #### learned...
