@@ -3,6 +3,7 @@
 ### Recently learning..
 - JavaScript (ES6)
 - PixiJS
+- React
 - node.js
 - algorithm
 
