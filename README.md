@@ -2,9 +2,8 @@
 
 ### Recently learning..
 - JavaScript (ES6)
-- PixiJS
+- (PixiJS)
 - React
-- node.js
 - algorithm
 
 ### Interest
