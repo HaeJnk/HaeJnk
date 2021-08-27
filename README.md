@@ -1,5 +1,7 @@
 ## HaeJnk
 
+Try to grow.
+
 ### Recently learning..
 - JavaScript (ES6)
 - React
@@ -9,7 +11,12 @@
 - Front End
 - Interaction
 - (Back End)
-- Game
+- (Game)
+- Computer system
+- OS (Operating system)
+- Data structure / algorithm
+- Programing language / compiler
+- DB (Data base)
 
 #### learned...
 - HTML
