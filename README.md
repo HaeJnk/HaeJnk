@@ -13,7 +13,7 @@ Try to grow.
 - (Back End)
 - (Game)
 - Computer architecture
-- OS (Operating systema)
+- OS (Operating system)
 - Data structure / algorithm
 - Programing language / compiler
 - DB (Data base)
