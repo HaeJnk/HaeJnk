@@ -12,8 +12,8 @@ Try to grow.
 - Interaction
 - (Back End)
 - (Game)
-- Computer system
-- OS (Operating system)
+- Computer architecture
+- OS (Operating systema)
 - Data structure / algorithm
 - Programing language / compiler
 - DB (Data base)
