@@ -12,11 +12,6 @@ Try to grow.
 - Interaction
 - (Back End)
 - (Game)
-- Computer architecture
-- OS (Operating system)
-- Data structure / algorithm
-- Programing language / compiler
-- DB (Data base)
 
 #### learned...
 - HTML
