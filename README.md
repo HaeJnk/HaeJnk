@@ -5,7 +5,7 @@ Try to grow.
 ### Recently learning..
 - JavaScript (ES6)
 - React
-- algorithm
+
 
 ### Interest
 - Front End
