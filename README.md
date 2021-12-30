@@ -1,11 +1,11 @@
 ## HaeJnk
 
-Try to grow (HARD).
+Try to grow (gogosing).
 
 ### Recently learning..
+- CSS3
 - JavaScript (ES6)
 - React
-
 
 ### Interest
 - Front End
@@ -14,7 +14,7 @@ Try to grow (HARD).
 - (Game)
 
 #### learned...
-- HTML
+- HTML5
 - CSS
 
 <!---
