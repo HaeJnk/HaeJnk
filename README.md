@@ -1,6 +1,6 @@
 ## HaeJnk
 
-Try to grow.
+Try to grow (HARD).
 
 ### Recently learning..
 - JavaScript (ES6)
