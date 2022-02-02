@@ -1,17 +1,14 @@
 ## HaeJnk
 
-Try to grow (gogosing).
+Try to grow.
 
 ### Recently learning..
 - CSS3
 - JavaScript (ES6)
-- React
 
 ### Interest
 - Front End
 - Interaction
-- (Back End)
-- (Game)
 
 #### learned...
 - HTML5
