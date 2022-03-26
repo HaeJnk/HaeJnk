@@ -7,7 +7,7 @@ Try to grow.
 - <img src="https://img.shields.io/badge/JavaScript (ES6)-F7DF1E?style=flat-square&logo=JavaScript&logoColor=ffffff"/>
 - <img src="https://img.shields.io/badge/C-A8B9CC?style=flat-square&logo=C&logoColor=ffffff"/>
 
-### Interest
+### have interest
 - Front End
 - Interaction
 - UI
