@@ -10,6 +10,7 @@ Try to grow.
 - Front End
 - Interaction
 - UI
+- Full Stack
 
 #### learned...
 - HTML5
