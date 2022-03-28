@@ -7,9 +7,9 @@ Try to grow up.
 - <img src="https://img.shields.io/badge/JavaScript (ES6)-F7DF1E?style=flat-square&logo=JavaScript&logoColor=ffffff"/>
 
 ### have interest
-- Front End
-- Interaction
+- Front End { <img src="https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=HTML5&logoColor=ffffff"/> <img src="https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=CSS3&logoColor=ffffff"/> <img src="https://img.shields.io/badge/JavaScript (ES6)-F7DF1E?style=flat-square&logo=JavaScript&logoColor=ffffff"/> }
 - UI
+- Interaction
 - Full Stack
 
 ### Once I've Used
