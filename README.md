@@ -11,6 +11,7 @@ Try to grow up.
 - Front End 
 - UI / Interaction 
 - Data Structure
+- Algorithm
 
 ### Once I've Used
 - <img src="https://img.shields.io/badge/C-A8B9CC?style=flat-square&logo=C&logoColor=ffffff"/>
