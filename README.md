@@ -10,7 +10,6 @@ Try to grow up.
 - Front End 
 - UI / Interaction 
 - Back End 
-- Full Stack
 
 ### Once I've Used
 - <img src="https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=HTML5&logoColor=ffffff"/>
