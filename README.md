@@ -4,7 +4,6 @@ Try to grow up.
 
 ### Recently learning..
 - <img src="https://img.shields.io/badge/C-A8B9CC?style=flat-square&logo=C&logoColor=ffffff"/>
-- <img src="https://img.shields.io/badge/Visual Studio-5C2D91?style=flat-square&logo=Visual Studio&logoColor=ffffff"/>
 - Data Structure
 
 ### have interest
@@ -22,6 +21,7 @@ Try to grow up.
 - <img src="https://img.shields.io/badge/Adobe Photoshop-31A8FF?style=flat-square&logo=Adobe Photoshop&logoColor=ffffff"/>
 - <img src="https://img.shields.io/badge/Adobe Illustrator-FF9A00?style=flat-square&logo=Adobe Illustrator&logoColor=ffffff"/>
 - <img src="https://img.shields.io/badge/Notion-FFFFFF?style=flat-square&logo=Notion&logoColor=000000"/>
+- <img src="https://img.shields.io/badge/Visual Studio-5C2D91?style=flat-square&logo=Visual Studio&logoColor=ffffff"/>
 
 
 <a href="https://github.com/HaeJnk"><img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FHaeJnk&count_bg=%23000000&title_bg=%23000000&icon=github.svg&icon_color=%23E7E7E7&title=GitHub&edge_flat=false)"/></a>
