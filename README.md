@@ -12,6 +12,8 @@ and make some funny thing.
 - Front End 
 - UI / Interaction 
 - Browser
+- Network
+- DataBase
 - Data Structure
 - Algorithm
 - Refactoring
