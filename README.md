@@ -1,7 +1,6 @@
 ## HaeJnk
 
-Try to grow up
-and make some funny things
+Make some funny things
 
 ### Recently learning..
 - <img src="https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=HTML5&logoColor=ffffff"/>
