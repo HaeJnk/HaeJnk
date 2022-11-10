@@ -3,9 +3,6 @@
 Make some funny things
 
 ### Recently learning..
-- <img src="https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=HTML5&logoColor=ffffff"/>
-- <img src="https://img.shields.io/badge/Sass-CC6699?style=flat-square&logo=Sass&logoColor=ffffff"/>
-- <img src="https://img.shields.io/badge/JS (ES6)-F7DF1E?style=flat-square&logo=JavaScript&logoColor=ffffff"/>
 - Java
 
 ### have interest
@@ -30,6 +27,9 @@ Make some funny things
 - <img src="https://img.shields.io/badge/Notion-FFFFFF?style=flat-square&logo=Notion&logoColor=000000"/>
 - <img src="https://img.shields.io/badge/Visual Studio-5C2D91?style=flat-square&logo=Visual Studio&logoColor=ffffff"/>
 - <img src="https://img.shields.io/badge/Visual Studio Code-007ACC?style=flat-square&logo=Visual Studio Code&logoColor=ffffff"/>
+- <img src="https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=HTML5&logoColor=ffffff"/>
+- <img src="https://img.shields.io/badge/Sass-CC6699?style=flat-square&logo=Sass&logoColor=ffffff"/>
+- <img src="https://img.shields.io/badge/JS (ES6)-F7DF1E?style=flat-square&logo=JavaScript&logoColor=ffffff"/>
 
 
 <a href="https://github.com/HaeJnk"><img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FHaeJnk&count_bg=%23000000&title_bg=%23000000&icon=github.svg&icon_color=%23E7E7E7&title=GitHub&edge_flat=false)"/></a>
