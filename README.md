@@ -3,14 +3,14 @@
 Make some funny things
 
 ### Recently learning..
-- Java
+- <img src="https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=HTML5&logoColor=ffffff"/>
+- <img src="https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=CSS3&logoColor=ffffff"/>
 
 ### have interest
-- Front End 
+- Front End (HTML, Scss, JavaScript, jQuery, React)
 - UI / Interaction 
 - Browser
 - Network
-- DataBase
 - Data Structure
 - Algorithm
 - Refactoring
@@ -18,7 +18,6 @@ Make some funny things
 - Full stack
 
 ### Once I've Used
-- <img src="https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=CSS3&logoColor=ffffff"/>
 - <img src="https://img.shields.io/badge/C-A8B9CC?style=flat-square&logo=C&logoColor=ffffff"/>
 - <img src="https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=Node.js&logoColor=ffffff"/>
 - <img src="https://img.shields.io/badge/Adobe XD-FF61F6?style=flat-square&logo=Adobe XD&logoColor=ffffff"/>
@@ -27,9 +26,10 @@ Make some funny things
 - <img src="https://img.shields.io/badge/Notion-FFFFFF?style=flat-square&logo=Notion&logoColor=000000"/>
 - <img src="https://img.shields.io/badge/Visual Studio-5C2D91?style=flat-square&logo=Visual Studio&logoColor=ffffff"/>
 - <img src="https://img.shields.io/badge/Visual Studio Code-007ACC?style=flat-square&logo=Visual Studio Code&logoColor=ffffff"/>
-- <img src="https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=HTML5&logoColor=ffffff"/>
 - <img src="https://img.shields.io/badge/Sass-CC6699?style=flat-square&logo=Sass&logoColor=ffffff"/>
 - <img src="https://img.shields.io/badge/JS (ES6)-F7DF1E?style=flat-square&logo=JavaScript&logoColor=ffffff"/>
+- Java
+- Oracle DB
 
 
 <a href="https://github.com/HaeJnk"><img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FHaeJnk&count_bg=%23000000&title_bg=%23000000&icon=github.svg&icon_color=%23E7E7E7&title=GitHub&edge_flat=false)"/></a>
