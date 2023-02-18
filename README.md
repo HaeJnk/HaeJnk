@@ -28,6 +28,7 @@ Make some funny things
 - <img src="https://img.shields.io/badge/Visual Studio Code-007ACC?style=flat-square&logo=Visual Studio Code&logoColor=ffffff"/>
 - <img src="https://img.shields.io/badge/Sass-CC6699?style=flat-square&logo=Sass&logoColor=ffffff"/>
 - <img src="https://img.shields.io/badge/JS (ES6)-F7DF1E?style=flat-square&logo=JavaScript&logoColor=ffffff"/>
+- 
 - Java
 - Oracle DB
 
