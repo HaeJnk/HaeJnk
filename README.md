@@ -4,6 +4,7 @@
 
 ### Recently learning..
 - <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=JavaScript&logoColor=ffffff"/>
+- <img src="https://img.shields.io/badge/jQuery-0769AD?style=flat&logo=jQuery&logoColor=ffffff"/>
 
 ### have interest
 - UI / Interaction 
