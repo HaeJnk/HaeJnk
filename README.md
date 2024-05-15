@@ -3,9 +3,10 @@
 
 
 ### Recently learning..
-- java
+- C
 
 ### have interest
+- Game
 - UI / Interaction 
 - Browser
 - Network
