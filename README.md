@@ -6,14 +6,14 @@
 </p>
 
 ### have interest
-<ul style="list-style-type:none;">
-  <li>
+<ul >
+  <li style="list-style-type:none;">
     <img src="https://img.shields.io/badge/Game-454545?style=flat&logoColor=white"/>
   </li>
-  <li>
+  <li style="list-style-type:none;">
     <img src="https://img.shields.io/badge/UI-454545?style=flat&logoColor=white"/>
   </li>
-  <li>
+  <li style="list-style-type:none;">
     <img src="https://img.shields.io/badge/Interaction-454545?style=flat&logoColor=white"/>
   </li>
   <li>
