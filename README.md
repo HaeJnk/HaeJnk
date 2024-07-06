@@ -1,11 +1,11 @@
-## Haejin
+<h2>Haejin</h2>
 <section class="section01">
-  ### Recently learning..
+  <h3>Recently learning..</h3>
   <p>
     <img src="https://img.shields.io/badge/C-A8B9CC?style=flat&logo=C&logoColor=ffffff"/> <img src="https://img.shields.io/badge/Python-3776AB style=flat&logo=Python&logoColor=ffffff"/>
   </p>
 
-  ### have interest
+  <h3>have interest</h3>
   <ul >
     <li style="list-style-type:none;">
       <img src="https://img.shields.io/badge/Game-454545?style=flat&logoColor=white"/>
@@ -38,7 +38,7 @@
 </section>
 
 <section class="section02">
-  ### Once I've Used
+  <h3>Once I've Used</h3>
   <p> 
     <h5>FE</h5>
     <ul>
@@ -58,7 +58,6 @@
         <img src="https://img.shields.io/badge/jQuery-0769AD?style=flat&logo=jQuery&logoColor=ffffff"/>
       </li>
     </ul>
-  
     <h5>BE</h5>
     <ul>
       <li>
