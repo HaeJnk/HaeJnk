@@ -1,7 +1,7 @@
 ## Haejin
 
 <a href="https://github.com/Haejnk/">
-  ### Recently learning.. <br>
+  <img>### Recently learning.. </img> <br>
   - <img src="https://img.shields.io/badge/C-A8B9CC?style=flat&logo=C&logoColor=ffffff"/>, <img src="https://img.shields.io/badge/Python-3776AB style=flat&logo=Python&logoColor=ffffff"/>
 </a><br>
 <a href="https://github.com/Haejnk/"> 
