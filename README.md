@@ -7,23 +7,15 @@
 
 ### have interest
 <a href="https://github.com/Haejnk/">
-  <img src="https://img.shields.io/badge/Game-303030?style=flat-square&logoColor=white"/>
-  <img src="https://img.shields.io/badge/UI-303030?style=flat-square&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Interaction-303030?style=flat-square&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Browser-505050?style=flat-square&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Network-505050?style=flat-square&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Data Structure-707070?style=flat-square&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Algorithm-101010?style=flat-square&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Refactoring-101010?style=flat-square&logoColor=white"/>
-  <img src="https://img.shields.io/badge/CS-101010?style=flat-square&logoColor=white"/>
-  - Game
-  - UI / Interaction 
-  - Browser
-  - Network
-  - Data Structure
-  - Algorithm
-  - Refactoring
-  - CS
+  <img src="https://img.shields.io/badge/Game-454545?style=flat&logoColor=white"/>
+  <img src="https://img.shields.io/badge/UI-454545?style=flat&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Interaction-454545?style=flat&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Browser-454545?style=flat&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Network-454545?style=flat&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Data Structure-454545?style=flat&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Algorithm-454545?style=flat&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Refactoring-454545?style=flat&logoColor=white"/>
+  <img src="https://img.shields.io/badge/CS-454545?style=flat&logoColor=white"/>
 </a><br>
 <a > 
   ### Once I've Used
