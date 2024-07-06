@@ -60,7 +60,7 @@
   <h5>BE</h5>
   <ul>
     <li>
-      <img src="https://img.shields.io/badge/Java-303030?style=flat&logoColor=white"/>
+      <img src="https://img.shields.io/badge/Java-906030?style=flat&logoColor=white"/>
     </li> 
     <li>
       <img src="https://img.shields.io/badge/Oracle-F80000?style=flat&logo=Oracle&logoColor=ffffff"/>
