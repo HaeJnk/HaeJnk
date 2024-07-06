@@ -7,7 +7,15 @@
 
 ### have interest
 <a href="https://github.com/Haejnk/">
-  <img src="https://img.shields.io/badge/Game-000000?style=flat-square&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Game-101010?style=flat-square&logoColor=white"/>
+  <img src="https://img.shields.io/badge/UI-101010?style=flat-square&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Interaction-101010?style=flat-square&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Browser-101010?style=flat-square&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Network-101010?style=flat-square&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Data Structure-101010?style=flat-square&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Algorithm-101010?style=flat-square&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Refactoring-101010?style=flat-square&logoColor=white"/>
+  <img src="https://img.shields.io/badge/CS-101010?style=flat-square&logoColor=white"/>
   - Game
   - UI / Interaction 
   - Browser
