@@ -1,12 +1,12 @@
 ## Haejin
 
 ### Recently learning..
-<a href="https://github.com/Haejnk/">
-<img src="https://img.shields.io/badge/C-A8B9CC?style=flat&logo=C&logoColor=ffffff"/> <img src="https://img.shields.io/badge/Python-3776AB style=flat&logo=Python&logoColor=ffffff"/>
-</a><br>
+<p >
+  <img src="https://img.shields.io/badge/C-A8B9CC?style=flat&logo=C&logoColor=ffffff"/> <img src="https://img.shields.io/badge/Python-3776AB style=flat&logo=Python&logoColor=ffffff"/>
+</p><br>
 
 ### have interest
-<a href="https://github.com/Haejnk/">
+<p>
   <img src="https://img.shields.io/badge/Game-454545?style=flat&logoColor=white"/>
   <img src="https://img.shields.io/badge/UI-454545?style=flat&logoColor=white"/>
   <img src="https://img.shields.io/badge/Interaction-454545?style=flat&logoColor=white"/>
@@ -16,12 +16,12 @@
   <img src="https://img.shields.io/badge/Algorithm-454545?style=flat&logoColor=white"/>
   <img src="https://img.shields.io/badge/Refactoring-454545?style=flat&logoColor=white"/>
   <img src="https://img.shields.io/badge/CS-454545?style=flat&logoColor=white"/>
-</a><br>
-<a > 
+</p><br>
+<p> 
   ### Once I've Used
-  - FE ( <img src="https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=HTML5&logoColor=ffffff"/>, <img src="https://img.shields.io/badge/CSS3-1572B6?style=flat&logo=CSS3&logoColor=ffffff"/>, <img src="https://img.shields.io/badge/Sass-CC6699?style=flat&logo=Sass&logoColor=ffffff"/>, <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=JavaScript&logoColor=ffffff"/>, <img src="https://img.shields.io/badge/jQuery-0769AD?style=flat&logo=jQuery&logoColor=ffffff"/> )
-  - BE (Java, <img src="https://img.shields.io/badge/Oracle-F80000?style=flat&logo=Oracle&logoColor=ffffff"/>)
-</a>
+  - FE ( <img src="https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=HTML5&logoColor=ffffff"/> <img src="https://img.shields.io/badge/CSS3-1572B6?style=flat&logo=CSS3&logoColor=ffffff"/> <img src="https://img.shields.io/badge/Sass-CC6699?style=flat&logo=Sass&logoColor=ffffff"/> <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=JavaScript&logoColor=ffffff"/> <img src="https://img.shields.io/badge/jQuery-0769AD?style=flat&logo=jQuery&logoColor=ffffff"/> )
+  - BE (Java <img src="https://img.shields.io/badge/Oracle-F80000?style=flat&logo=Oracle&logoColor=ffffff"/>)
+</p>
 
 <a href="https://github.com/Haejnk/">
   <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=Haejnk&theme=transparent" />
