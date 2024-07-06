@@ -7,12 +7,12 @@
 
 ### have interest
 <a href="https://github.com/Haejnk/">
-  <img src="https://img.shields.io/badge/Game-101010?style=flat-square&logoColor=white"/>
-  <img src="https://img.shields.io/badge/UI-101010?style=flat-square&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Interaction-101010?style=flat-square&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Browser-101010?style=flat-square&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Network-101010?style=flat-square&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Data Structure-101010?style=flat-square&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Game-303030?style=flat-square&logoColor=white"/>
+  <img src="https://img.shields.io/badge/UI-303030?style=flat-square&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Interaction-303030?style=flat-square&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Browser-505050?style=flat-square&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Network-505050?style=flat-square&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Data Structure-707070?style=flat-square&logoColor=white"/>
   <img src="https://img.shields.io/badge/Algorithm-101010?style=flat-square&logoColor=white"/>
   <img src="https://img.shields.io/badge/Refactoring-101010?style=flat-square&logoColor=white"/>
   <img src="https://img.shields.io/badge/CS-101010?style=flat-square&logoColor=white"/>
