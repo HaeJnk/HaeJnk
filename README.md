@@ -1,6 +1,16 @@
 <h2>Haejin</h2>
+<table>
+  <tr>
+    <th>Recently learning</th>
+    <th>have interest</ht>
+    <th>Once I've Used</th>
+  </tr>
+  <tr>
+    
+  </tr>
+</table>
 <section class="section01">
-  <h3>Recently learning..</h3>
+  <h3>..</h3>
   <p>
     <img src="https://img.shields.io/badge/C-A8B9CC?style=flat&logo=C&logoColor=ffffff"/> <img src="https://img.shields.io/badge/Python-3776AB style=flat&logo=Python&logoColor=ffffff"/>
   </p>
