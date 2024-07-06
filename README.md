@@ -1,6 +1,6 @@
 <h2>Haejin</h2>
 
-<table border="0" >
+<table >
   <tr>
     <th>Recently learning</th>
     <th>have interest</ht>
