@@ -1,5 +1,6 @@
 <h2>Haejin</h2>
-<table>
+
+<table border="0" cellspacing="1">
   <tr>
     <th>Recently learning</th>
     <th>have interest</ht>
