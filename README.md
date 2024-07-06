@@ -6,7 +6,7 @@
 </p>
 
 ### have interest
-<ul>
+<ul style="list-style-type:none;">
   <li>
     <img src="https://img.shields.io/badge/Game-454545?style=flat&logoColor=white"/>
   </li>
