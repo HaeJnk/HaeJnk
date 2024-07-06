@@ -1,30 +1,70 @@
 ## Haejin
 
 ### Recently learning..
-<p >
+<p>
   <img src="https://img.shields.io/badge/C-A8B9CC?style=flat&logo=C&logoColor=ffffff"/> <img src="https://img.shields.io/badge/Python-3776AB style=flat&logo=Python&logoColor=ffffff"/>
 </p>
 
 ### have interest
-<p>
-  <img src="https://img.shields.io/badge/Game-454545?style=flat&logoColor=white"/>
-  <img src="https://img.shields.io/badge/UI-454545?style=flat&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Interaction-454545?style=flat&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Browser-454545?style=flat&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Network-454545?style=flat&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Data Structure-454545?style=flat&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Algorithm-454545?style=flat&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Refactoring-454545?style=flat&logoColor=white"/>
-  <img src="https://img.shields.io/badge/CS-454545?style=flat&logoColor=white"/>
-</p>
+<ul>
+  <li>
+    <img src="https://img.shields.io/badge/Game-454545?style=flat&logoColor=white"/>
+  </li>
+  <li>
+    <img src="https://img.shields.io/badge/UI-454545?style=flat&logoColor=white"/>
+  </li>
+  <li>
+    <img src="https://img.shields.io/badge/Interaction-454545?style=flat&logoColor=white"/>
+  </li>
+  <li>
+    <img src="https://img.shields.io/badge/Browser-454545?style=flat&logoColor=white"/>
+  </li>
+  <li>
+    <img src="https://img.shields.io/badge/Network-454545?style=flat&logoColor=white"/>
+  </li>
+  <li>
+    <img src="https://img.shields.io/badge/Data Structure-454545?style=flat&logoColor=white"/>
+  </li>
+  <li>
+    <img src="https://img.shields.io/badge/Algorithm-454545?style=flat&logoColor=white"/>
+  </li>
+  <li>
+    <img src="https://img.shields.io/badge/Refactoring-454545?style=flat&logoColor=white"/>
+  </li>
+  <li>
+    <img src="https://img.shields.io/badge/CS-454545?style=flat&logoColor=white"/>
+  </li>
+</ul>
 
 ### Once I've Used
 <p> 
-  <p>
-    FE <img src="https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=HTML5&logoColor=ffffff"/> <img src="https://img.shields.io/badge/CSS3-1572B6?style=flat&logo=CSS3&logoColor=ffffff"/> <img src="https://img.shields.io/badge/Sass-CC6699?style=flat&logo=Sass&logoColor=ffffff"/> <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=JavaScript&logoColor=ffffff"/> <img src="https://img.shields.io/badge/jQuery-0769AD?style=flat&logo=jQuery&logoColor=ffffff"/> 
-  </p>
-  <p>
-    BE <img src="https://img.shields.io/badge/Java-303030?style=flat&logoColor=white"/> <img src="https://img.shields.io/badge/Oracle-F80000?style=flat&logo=Oracle&logoColor=ffffff"/>
+  <h5>FE</h5>
+  <ul>
+    <li>
+      <img src="https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=HTML5&logoColor=ffffff"/>
+    </li>
+    <li>
+      <img src="https://img.shields.io/badge/CSS3-1572B6?style=flat&logo=CSS3&logoColor=ffffff"/>
+    </li>
+    <li>
+      <img src="https://img.shields.io/badge/Sass-CC6699?style=flat&logo=Sass&logoColor=ffffff"/>
+    </li>
+    <li>
+      <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=JavaScript&logoColor=ffffff"/>
+    </li>
+    <li>
+      <img src="https://img.shields.io/badge/jQuery-0769AD?style=flat&logo=jQuery&logoColor=ffffff"/>
+    </li>
+  </ul>
+
+  <h5>BE</h5>
+  <ul>
+    <li>
+      <img src="https://img.shields.io/badge/Java-303030?style=flat&logoColor=white"/>
+    </li> 
+    <li>
+      <img src="https://img.shields.io/badge/Oracle-F80000?style=flat&logo=Oracle&logoColor=ffffff"/>
+    </li>
   </p>
 </p>
 
