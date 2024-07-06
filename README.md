@@ -19,11 +19,11 @@
 - Front End ( <img src="https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=HTML5&logoColor=ffffff"/>, <img src="https://img.shields.io/badge/CSS3-1572B6?style=flat&logo=CSS3&logoColor=ffffff"/>, <img src="https://img.shields.io/badge/Sass-CC6699?style=flat&logo=Sass&logoColor=ffffff"/>, <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=JavaScript&logoColor=ffffff"/>, <img src="https://img.shields.io/badge/jQuery-0769AD?style=flat&logo=jQuery&logoColor=ffffff"/> )
 - Back End (Java, <img src="https://img.shields.io/badge/Oracle-F80000?style=flat&logo=Oracle&logoColor=ffffff"/>)
 
-<a href="https://github.com/anuraghazra/github-readme-stats">
+<a href="https://github.com/Haejnk/github-readme-stats">
   <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=Haejnk&theme=transparent" />
 </a>
 <a href="https://github.com/anuraghazra/convoychat">
-  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=Haejnk&layout=compact&langs_count=8&card_width=320&theme=transparent" />
+  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=Haejnk&layout=donut&langs_count=8&card_width=320&theme=transparent" />
 </a>
 
 <a href="https://github.com/HaeJnk"><img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FHaeJnk&count_bg=%23000000&title_bg=%23000000&icon=github.svg&icon_color=%23E7E7E7&title=GitHub&edge_flat=false)"/></a>
