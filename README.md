@@ -1,11 +1,13 @@
 ## Haejin
 
+### Recently learning..
 <a href="https://github.com/Haejnk/">
-  <img>### Recently learning.. </img> <br>
-  - <img src="https://img.shields.io/badge/C-A8B9CC?style=flat&logo=C&logoColor=ffffff"/>, <img src="https://img.shields.io/badge/Python-3776AB style=flat&logo=Python&logoColor=ffffff"/>
+<img src="https://img.shields.io/badge/C-A8B9CC?style=flat&logo=C&logoColor=ffffff"/> <img src="https://img.shields.io/badge/Python-3776AB style=flat&logo=Python&logoColor=ffffff"/>
 </a><br>
-<a href="https://github.com/Haejnk/"> 
-  ### have interest
+
+### have interest
+<a href="https://github.com/Haejnk/">
+  <img src="https://img.shields.io/badge/Game-000000?style=flat-square&logoColor=white"/>
   - Game
   - UI / Interaction 
   - Browser
