@@ -1,9 +1,9 @@
 ## Haejin
 
 <a href="https://github.com/Haejnk/">
-  ### Recently learning..
+  ### Recently learning.. <br>
   - <img src="https://img.shields.io/badge/C-A8B9CC?style=flat&logo=C&logoColor=ffffff"/>, <img src="https://img.shields.io/badge/Python-3776AB style=flat&logo=Python&logoColor=ffffff"/>
-</a>
+</a><br>
 <a href="https://github.com/Haejnk/"> 
   ### have interest
   - Game
@@ -14,7 +14,7 @@
   - Algorithm
   - Refactoring
   - CS
-</a>
+</a><br>
 <a > 
   ### Once I've Used
   - FE ( <img src="https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=HTML5&logoColor=ffffff"/>, <img src="https://img.shields.io/badge/CSS3-1572B6?style=flat&logo=CSS3&logoColor=ffffff"/>, <img src="https://img.shields.io/badge/Sass-CC6699?style=flat&logo=Sass&logoColor=ffffff"/>, <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=JavaScript&logoColor=ffffff"/>, <img src="https://img.shields.io/badge/jQuery-0769AD?style=flat&logo=jQuery&logoColor=ffffff"/> )
