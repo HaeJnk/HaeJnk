@@ -8,7 +8,7 @@
   </tr>
   <tr>
     <td>
-      <img src="https://img.shields.io/badge/C-A8B9CC?style=flat&logo=C&logoColor=ffffff"/> <img src="https://img.shields.io/badge/Python-3776AB style=flat&logo=Python&logoColor=ffffff"/> <img src="https://img.shields.io/badge/MySQL-4479A1 style=flat&logo=MySQL&logoColor=ffffff"/>
+      <img src="https://img.shields.io/badge/C-A8B9CC?style=flat&logo=C&logoColor=ffffff"/> <img src="https://img.shields.io/badge/Python-3776AB?style=flat&logo=Python&logoColor=ffffff"/> <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat&logo=MySQL&logoColor=ffffff"/>
     </td>
     <td>
       <img src="https://img.shields.io/badge/Game-454545?style=flat&logoColor=white"/> <img src="https://img.shields.io/badge/UI-454545?style=flat&logoColor=white"/> <img src="https://img.shields.io/badge/Interaction-454545?style=flat&logoColor=white"/> <img src="https://img.shields.io/badge/Browser-454545?style=flat&logoColor=white"/> <img src="https://img.shields.io/badge/Network-454545?style=flat&logoColor=white"/> <img src="https://img.shields.io/badge/Data Structure-454545?style=flat&logoColor=white"/> <img src="https://img.shields.io/badge/Algorithm-454545?style=flat&logoColor=white"/> <img src="https://img.shields.io/badge/Refactoring-454545?style=flat&logoColor=white"/> <img src="https://img.shields.io/badge/CS-454545?style=flat&logoColor=white"/>
