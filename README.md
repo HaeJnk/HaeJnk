@@ -20,17 +20,11 @@
 - Back End (Java, <img src="https://img.shields.io/badge/Oracle-F80000?style=flat&logo=Oracle&logoColor=ffffff"/>)
 
 <a href="https://github.com/anuraghazra/github-readme-stats">
-  [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Haejnk&theme=transparent)](https://github.com/Haejnk/github-readme-stats)
-  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=anuraghazra" />
+  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=Haejnk&theme=transparent" />
 </a>
 <a href="https://github.com/anuraghazra/convoychat">
-  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Haejnk&theme=transparent&layout=donut)](https://github.com/Haejnk/github-readme-stats)
-  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=anuraghazra&layout=compact&langs_count=8&card_width=320" />
+  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=Haejnk&layout=compact&langs_count=8&card_width=320&theme=transparent&layout=donut" />
 </a>
-
-
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Haejnk&theme=transparent&layout=donut)](https://github.com/Haejnk/github-readme-stats)
 
 <a href="https://github.com/HaeJnk"><img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FHaeJnk&count_bg=%23000000&title_bg=%23000000&icon=github.svg&icon_color=%23E7E7E7&title=GitHub&edge_flat=false)"/></a>
 
