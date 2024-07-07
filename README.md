@@ -1,4 +1,4 @@
-<h2>Haejin</h2>
+<h2>HJ</h2>
 
 <table >
   <tr>
